@@ -19,6 +19,5 @@ function changeWord() {
 
 function wordColor() {
 	let p = document.getElementById("noice");
-	let span;
-	span.style.backgroundColor = "orange";
+	noice.style.backgroundColor = "orange";
 }
